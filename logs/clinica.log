@@ -1,0 +1,20 @@
+[2025-11-16 15:04:13] [ INFO ] [Clinica:66] Los valores insertados en la tabla, fila 1 son:
+-ID: 1 -Matricula: 1234 -Nombre: Marina -Apellido: Revol
+[2025-11-16 15:04:13] [ INFO ] [Clinica:66] Los valores insertados en la tabla, fila 2 son:
+-ID: 2 -Matricula: 5678 -Nombre: Paula -Apellido: Carballo
+[2025-11-16 15:04:13] [ WARN ] [Clinica:83] Se actualizó el regsitro correspodneinte al ID = 1
+[2025-11-16 15:04:13] [ WARN ] [Clinica:96] Se elimino el resgistro con ID 2
+[2025-11-16 15:04:13] [ INFO ] [Clinica:119] Los datos actualizados
+-ID: 1 -Matricula: 1234 -Nombre: Noelia -Apellido: Revol
+[2025-11-16 15:04:13] [ INFO ] [Clinica:139] La consulta final luego de borrar el registro con ID = 1 es:
+ -ID: 1 -Matricula: 1234 -Nombre: Noelia -Apellido: Revol
+[2025-11-16 15:07:41] [ INFO ] [Clinica:66] Los valores insertados en la tabla, fila 1 son:
+-ID: 1 -Matricula: 1234 -Nombre: Marina -Apellido: Revol
+[2025-11-16 15:07:41] [ INFO ] [Clinica:66] Los valores insertados en la tabla, fila 2 son:
+-ID: 2 -Matricula: 5678 -Nombre: Paula -Apellido: Carballo
+[2025-11-16 15:07:41] [ WARN ] [Clinica:83] Se actualizó el regsitro correspodneinte al ID = 1
+[2025-11-16 15:07:41] [ WARN ] [Clinica:96] Se elimino el resgistro con ID 2
+[2025-11-16 15:07:41] [ INFO ] [Clinica:119] Los datos actualizados
+-ID: 1 -Matricula: 1234 -Nombre: Noelia -Apellido: Revol
+[2025-11-16 15:07:41] [ INFO ] [Clinica:139] La consulta final luego de borrar el registro con ID = 1 es:
+ -ID: 1 -Matricula: 1234 -Nombre: Noelia -Apellido: Revol
